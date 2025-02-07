@@ -1,0 +1,10 @@
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\bin\Debug\Imageprocessing.exe.config
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\bin\Debug\Imageprocessing.exe
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\bin\Debug\Imageprocessing.pdb
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.csproj.AssemblyReference.cache
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.Form1.resources
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.Properties.Resources.resources
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.csproj.GenerateResource.cache
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.exe
+C:\Users\Shubham Kharote\source\repos\Imageprocessing\Imageprocessing\obj\Debug\Imageprocessing.pdb
